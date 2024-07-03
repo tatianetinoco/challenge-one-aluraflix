@@ -1,0 +1,18 @@
+.btnForm{
+    font-size: 1.25rem;
+    font-weight: 800;
+    width: 180px;
+    height: 54px; 
+    font-family: var(--fontSourceSans);
+    color: var(--white);
+    background-color: transparent;
+    cursor: pointer;
+    border: 0;
+}
+
+nav{
+    display: flex;
+    gap: 1.563rem;
+}
+
+

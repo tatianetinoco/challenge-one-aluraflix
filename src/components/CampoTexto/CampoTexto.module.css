@@ -1,0 +1,29 @@
+.campoTexto{
+    display: flex;
+    flex-direction: column;
+    font-family: var(--fontSourceSans); 
+    margin-bottom: 2rem;
+}
+
+.campoTexto label{
+    padding-bottom: .5rem;
+    font-size: 20px; 
+}
+
+.campoTexto input{
+    background-color: transparent;
+    height: 62px;
+    border: 2px solid var(--lightGray);
+    border-radius: 10px; 
+    padding-left: 1rem;
+    font-size: 20px;
+    font-family: var(--fontSourceSans); 
+    color: var(--lightGray);
+}
+
+::placeholder{
+    padding-left: 1rem;
+    font-size: 20px;
+    font-family: var(--fontSourceSans); 
+}
+

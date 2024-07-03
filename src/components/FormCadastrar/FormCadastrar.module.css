@@ -1,0 +1,74 @@
+.containerForm{
+    height: auto;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 5rem 1rem;
+}
+
+.tituloForm{
+    font-family: var( --fontSourceSans);
+    border-top: 2px solid var(--softGray);
+    border-bottom: 2px solid var(--softGray);
+    font-size: 36px;
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+    font-weight: 500;
+}
+
+.headerForm{
+    text-align: center;
+    font-family: var( --fontSourceSans);
+    padding: 1rem 0;
+}
+
+.headerForm h2{
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: var( --fontRoboto);
+    padding-bottom: 1.5rem;
+}
+
+.headerForm p{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: var( --fontRoboto);
+    margin-bottom: 47px;
+    font-weight: 300;
+}
+
+.btn{
+    display: flex;
+    gap: 1.5rem;
+}
+
+.btn div:first-child{
+    border-radius: 15px;
+    box-shadow: 0px 0px 4px 1px var(--blue) inset;
+    border: 2px solid var(--royalBlue);
+}
+
+.btn div:last-child{
+    border-radius: 15px;
+    box-shadow: 0px 0px 4px 1px var(--white) inset;
+    border: 2px solid var(--white);
+}
+
+.btn div button{
+    letter-spacing: 1px;
+}
+
+.btn div:hover{
+    border-radius: 15px;
+    box-shadow: 0px 0px 4px 1px var(--yellow) inset;
+    border: 2px solid var(--yellow);
+}
+
+@media (max-width: 450px){
+    .btn{
+        text-align: center;
+        flex-direction: column;
+    }
+}

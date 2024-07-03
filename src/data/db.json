@@ -1,0 +1,149 @@
+{
+    "cards": [
+      {
+        "categoria": "FRONT END",
+        "cor": "#6BD1FF",
+        "videos": [
+          {
+            "id": 1,
+            "img": "https://img.youtube.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+            "titulo": "O que faz uma desenvolvedora front-end?",
+            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+            "descricao":"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!"
+          },
+          {
+            "id": 2,
+            "img": "https://img.youtube.com/vi/c8mVlakBESE/maxresdefault.jpg",
+            "titulo": "SEO com React",
+            "url": "https://www.youtube.com/watch?v=c8mVlakBESE",
+            "descricao":"Eu to aqui pra nesse vídeo dizer que a gente vai aprender a começar uma app inspirada no desenho Pokémon com Nextjs e React, ver algumas dicas sobre performance e de quebra conhecer uma plataforma sensacional pra fazer deploy que é a Vercel. Tudo em 22 minutos nesse vídeo feito com todo o carinho do mundo construindo uma Pokedex! 😍 bora ver?"
+          },
+          {
+            "id": 3,
+            "img": "https://img.youtube.com/vi/LatCKpcOMak/maxresdefault.jpg",
+            "titulo": "Componentização com VanillaJS ",
+            "url": "https://www.youtube.com/watch?v=LatCKpcOMak",
+            "descricao":"Neste Alura+, a Juliana Negreiros fala sobre componentização de telas com VanillaJS sem utilizar nenhum framework! Ela explica como você pode trabalhar com os componentes além de como analisar seus elementos e sua composição, tudo isso com exemplos práticos. Confira!"
+          },
+          {
+            "id": 4,
+            "img": "https://img.youtube.com/vi/ORI_HTXaIw0/maxresdefault.jpg",
+            "titulo": "Template String JavaScript ",
+            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0",
+            "descricao":"Como funciona o Template String no JavaScript? O instrutor Felipe Nascimento fala exatamente sobre isso neste Alura+ e explica o uso desta funcionalidade com exemplos práticos. Confira!"
+          },
+          {
+            "id": 5,
+            "img": "https://img.youtube.com/vi/34uHo7hFmG0/maxresdefault.jpg",
+            "titulo": "Novidades do Angular v9",
+            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0",
+            "descricao":"Mais um vídeo da série sobre Angular v9 e Angular Ivy! Esse tutorial é uma dica rápida mostrando as duas maiores novidades to TypeScript 3.7 que é o operador de optional chaining e o operador de coalescência nula."
+          },
+          {
+            "id": 6,
+            "img": "https://img.youtube.com/vi/QzDjdlF1BQI/maxresdefault.jpg",
+            "titulo": "Base para aprender os frameworks",
+            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI",
+            "descricao":"Nesse vídeo, vamos fazer um mini render com JavaScript puro na unha, passando pelas principais ideias que os frameworks trabalham enquanto vemos features super importantes do JavaScript pra conseguir trabalhar com outras ferramentas depois."
+          }        
+        ]
+      },
+      {
+        "categoria": "BACK END",
+        "cor": "#00C86F",
+        "videos": [
+          {
+            "id": 7,
+            "img": "https://img.youtube.com/vi/UOK7nS2E9xM/maxresdefault.jpg",
+            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM",
+            "descricao":"Neste vídeo, Hallison explica sobre o percurso em nível em árvores binárias. Apesar de ser um  algoritmo bem diferente dos demais percursos vistos em árvores, o percurso em nível é um dos mais intuitivos de ser compreendido. Devido à sua natureza, a implementação não pode ser recursiva, sendo necessário utilizar uma fila como estrutura de dados auxiliar."
+          },
+          {
+            "id": 8,
+            "img": "https://img.youtube.com/vi/6o6-bKOZOEY/maxresdefault.jpg",
+            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY",
+            "descricao":"Nesse vídeo vamos aprender um pouco mais o que seria o GitHub CLI e quais são as suas vantagens!"
+          },
+          {
+            "id": 9,
+            "img": "https://img.youtube.com/vi/wXMlMsDvk2M/maxresdefault.jpg",
+            "titulo": "O que faz uma desenvolvedora Back-end?",
+            "url": "https://www.youtube.com/watch?v=wXMlMsDvk2M",
+            "descricao":"Recentemente fiz um video passo a passo sobre como se tornar um desenvolvedor Frontend e atendendo a pedidos, volto aqui com um passo a passo, um RoadMap de tudo que você precisa saber para se tornar um desenvolvedor Backend. Afinal é um profissional com alta demanda de mercado, esta entre os maiores salários e também dispõe de muitas possibilidades para se especializar. Como trabalhar com Backend te permite escolher e atuar com diversas tecnologias, talvez muitas pessoas se percam justamente nesse ponto. Então a ideia do video é dar uma clareada nesse caminho para que você consiga trilha-lo. Bora lá?"
+          },
+          {
+            "id": 10,
+            "img": "https://img.youtube.com/vi/vGuqKIRWosk/maxresdefault.jpg",
+            "titulo": "API: Dicionário do Programador",
+            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk",
+            "descricao":"O Dicionário do Programador é o quadro semanal onde você poderá aprender mais sobre termos, tecnologias ou palavras do maravilhoso mundo da programação!"
+          }, 
+          {
+            "id": 11,
+            "img": "https://img.youtube.com/vi/sgqvzzWTInI/maxresdefault.jpg",
+            "titulo": "Usando Git Direito",
+            "url": "https://www.youtube.com/watch?v=sgqvzzWTInI",
+            "descricao":"Sendo VERSÁTIL no Back-End - Roadmap de Programação 2024"
+          },
+          {
+            "id": 12,
+            "img": "https://img.youtube.com/vi/TJ90DZjYdWI/maxresdefault.jpg",
+            "titulo": "Seja um Programador Back-End de Sucesso",
+            "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI",
+            "descricao":"Separamos nesse vídeo as principais skills que acreditamos serem necessárias para se tornar um ótimo Desenvolvedor BackEnd. Se tonar um programador é algo que leva tempo e precisa de dedicação e persistência. Com nossas dicas acreditamos que podemos dar um norte pra quem está iniciando e quer entender melhor como o processo de aprendizado pode ser conduzido."
+          }
+        ]
+      },
+      {
+        "categoria": "MOBILE",
+        "cor": "#FFBA05",
+        "videos": [
+          {
+            "id": 13,
+            "img": "https://img.youtube.com/vi/DaSJ7tIGnQs/maxresdefault.jpg",
+            "titulo": "As melhores tecnologias para desenvolvimento Mobile",
+            "url": "https://www.youtube.com/watch?v=DaSJ7tIGnQs",
+            "descricao":"Se existe uma área da programação que cresceu MUITO nos últimos anos, foi o DESENVOLVIMENTO MOBILE"
+          },
+          {
+            "id": 14,
+            "img": "https://img.youtube.com/vi/COY5vTa778g/maxresdefault.jpg",
+            "titulo": "Como Se Tornar Um Desenvolvedor MOBILE em 2024?",
+            "url": "https://www.youtube.com/watch?v=COY5vTa778g",
+            "descricao": "Um desenvolvedor mobile é um profissional que cria aplicativos para smartphones e tablets e smartwatchs usando linguagens como Kotlin, Java, Swift, Dart, C# e Javascript. Uma área em constante crescimento que vem passando por muitas transformações nos últimos anos."
+          },
+          {
+            "id": 15,
+            "img": "https://img.youtube.com/vi/0_-6xnOyxSo/maxresdefault.jpg",
+            "titulo": "Chegou a Vez do Kotlin em 2024?",
+            "url": "https://www.youtube.com/watch?v=0_-6xnOyxSo",
+            "descricao":"Depois de 12 anos, Kotlin é a linguagens de programação utilizadas no desenvolvimento Android e trouxe muitas novidades em 2023 que vão provavelmente colocar ela em um outro patamar. Estamos vendo ela rivalizar não só com Java mas com linguagens estabelecidas em outras plataformas. Analisamos algumas características marcantes da linguagem e também o mercado no exterior e também para desenvolvedores no Brasil. "
+          },
+          {
+            "id": 16,
+            "img": "https://img.youtube.com/vi/xU2r-dSdN1o/maxresdefault.jpg",
+            "titulo": "O que eu faço como Desenvolvedor Mobile",
+            "url": "https://www.youtube.com/watch?v=xU2r-dSdN1o",
+            "descricao":"Começando na Programação por Desenvolvimento de Aplicativos, porque tu não precisa começar por desenvolvimento web"
+          }, 
+          {
+            "id": 17,
+            "img": "https://img.youtube.com/vi/JG2lcJeQuO8/maxresdefault.jpg",
+            "titulo": "Criando Aplicativo Profissional do zero",
+            "url": "https://www.youtube.com/watch?v=JG2lcJeQuO8",
+            "descricao":"Como Criar um Aplicativo? Como Criar Um Aplicativo Profissional? Como Criar Um Aplicativo Profissional com Programação? Bem essas perguntas serão respondidas neste mini curso completo com 7 horas de duração. Neste mini curso vamos aprender a técnica de desenvolvimento híbrido, que utiliza linguagens de programação como HTML, CSS, JavaScript para criar aplicativos para Android, usando o Apache Cordova. Vamos fazer um projeto prático do início ao fim. "
+          },
+          {
+            "id": 18,
+            "img": "https://img.youtube.com/vi/HxWKTF-Sv9w/maxresdefault.jpg",
+            "titulo": "Como ser um dev android profissional",
+            "url": "https://www.youtube.com/watch?v=HxWKTF-Sv9w",
+            "descricao":"Como ser um dev android profissional. Nesse vídeo eu te falo como aprender android de graça."
+          }
+        ]
+      }
+    ]
+  }
+  

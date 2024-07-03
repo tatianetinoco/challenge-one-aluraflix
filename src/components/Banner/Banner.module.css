@@ -1,0 +1,101 @@
+.capa {
+    width: 100%;
+    height: 832px;
+    background-image: url('../../assets/img/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.BannerContent{
+    display: flex;
+    align-items: center;
+    gap: 3.125rem;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.BannerContentText{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.BannerContentText button{
+    font-size: 48px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: var(--fontRoboto);
+    border: 0;
+    border-radius: 15px;
+    color: var(--white);
+    background-color: var(--blue);
+    width: 296px;
+    height: 92px;
+}
+
+.BannerContentText h2{
+    font-size: 46px;
+    font-weight: 300;
+    font-family: var(--fontRoboto);
+}
+
+.BannerContentText p{
+    font-size: 18px;
+    font-weight: 200;
+    font-family: var(--fontRoboto);
+}
+
+.BannerContentVideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.videoFrame{
+    width: 654px;
+    height: 342px;  
+    border: 6px solid var(--blue);
+    border-radius: 8px;
+    box-shadow: 2px 2px 15px 4px var(--blue);
+}
+
+@media (max-width: 1024px){
+    .BannerContent{
+        flex-direction: column;
+        width: 100%;
+    }
+    .BannerContentText{
+       padding: 3rem 0;
+    }
+}
+
+@media (max-width: 768px){
+    .videoFrame{
+        width: 500px;
+        height: 280px;  
+    }
+}
+
+@media (max-width: 425px){
+    .videoFrame{
+        width: 330px;
+        height: 190px;  
+    }
+}
+
+@media (max-width: 320px){
+    .videoFrame{
+        width: 290px;
+        height: 150px;  
+    }
+
+    .BannerContent{
+        gap: 1rem;
+    }
+    
+}
+
+

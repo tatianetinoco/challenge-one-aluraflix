@@ -1,0 +1,42 @@
+.titulo{
+    text-align: center;
+    padding: 4rem 0 1.5rem;
+    font-family: var(--fontRoboto);
+    color: var(--lightGray);
+}
+
+.descricao{
+    max-width: 1000px;
+    text-align: center;
+    padding: 2rem 1rem 4rem 1rem;
+    font-family: var(--fontRoboto);
+    color: var(--lightGray);
+    margin: 0 auto;
+}
+
+.playerSection{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.iframeVideo{
+    border: 8px solid var(--softGray);
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+@media (max-width: 768px){
+    .iframeVideo {
+        width: 600px;
+    }
+}
+
+@media (max-width: 425px){
+    .iframeVideo {
+        width: 100%;
+        aspect-ratio: 9/16;
+    }
+}
+
